@@ -5,7 +5,7 @@
 Запуск тестов через консоль:
 pytest Tests_Search.py --alluredir results
 
-results - папка, где будут храниться отчёты для allure
+  results - папка, где будут храниться отчёты для allure
 
 Просмотр отчётов в allure:
 allure serve relults
